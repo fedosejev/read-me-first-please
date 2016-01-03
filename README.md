@@ -5,3 +5,4 @@ Explains the content of my repositories.
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
 + [Example of minimalist stock market dashboard](https://github.com/fedosejev/stock-market-dashboard)
 + [Code for my React.js Essentials book](https://github.com/fedosejev/react-essentials)
++ [Example of a shopping list built with React.js and Flux](https://github.com/fedosejev/shopping-list-react)

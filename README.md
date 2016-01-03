@@ -6,3 +6,6 @@ Explains the content of my repositories.
 + [Example of minimalist stock market dashboard](https://github.com/fedosejev/stock-market-dashboard)
 + [Code for my React.js Essentials book](https://github.com/fedosejev/react-essentials)
 + [Example of a shopping list built with React.js and Flux](https://github.com/fedosejev/shopping-list-react)
++ [Example of a login modal window built with React.js](https://github.com/fedosejev/modal-window-react)
++ [Example of how to calculate interest over time with Node.js](https://github.com/fedosejev/growth-of-a-dollar-over-time)
++ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today)

@@ -1,6 +1,8 @@
-# My repositories
+# Artemij Fedosejev
 
 I've built successful career in web development. Today I teach others how to do it.
+
+## My repositories
 
 ## Examples:
 

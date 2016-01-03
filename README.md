@@ -36,3 +36,10 @@
 ## Book:
 
 + [React.js Essentials book](https://github.com/fedosejev/react-essentials)
+
+## How to contact me?
+
++ Email: artemij.github@gmail.com
++ [LinkedIn](http://linkedin.com/in/artemij)
++ [Twitter](http://twitter.com/artemy)
++ Snapchat: `artemij`

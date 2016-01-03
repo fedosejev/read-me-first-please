@@ -1,5 +1,7 @@
 # Artemij Fedosejev
 
+<img src="artemij_fedosejev.jpg" width="400" />
+
 I've built successful career in web development. Today I teach others how to do it.
 
 ## My repositories

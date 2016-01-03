@@ -42,6 +42,6 @@ I've built successful career in web development. Today I teach others how to do 
 ## How to contact me?
 
 + Email: artemij.github@gmail.com
-+ [LinkedIn](http://linkedin.com/in/artemij)
-+ [Twitter](http://twitter.com/artemy)
++ LinkedIn: http://linkedin.com/in/artemij
++ Twitter: http://twitter.com/artemy
 + Snapchat: `artemij`

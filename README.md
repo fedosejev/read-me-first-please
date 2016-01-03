@@ -6,6 +6,10 @@ I've built successful career in web development. Today I teach others how to do 
 
 ## My repositories
 
+### Book
+
++ [React.js Essentials book](https://github.com/fedosejev/react-essentials)
+
 ### Examples
 
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
@@ -38,10 +42,6 @@ I've built successful career in web development. Today I teach others how to do 
 + [Code for zerointerview.com website](https://github.com/fedosejev/zerointerview.com)
 + [Code for daredays.com website](https://github.com/fedosejev/daredays.com)
 + [Code for photoshoot.tips website](https://github.com/fedosejev/photoshoot.tips)
-
-### Book
-
-+ [React.js Essentials book](https://github.com/fedosejev/react-essentials)
 
 ## How to contact me?
 

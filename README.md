@@ -3,13 +3,13 @@
 ## Examples:
 
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
++ [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
++ [Example of a RESTful API with Node.js, Express.js, Mongoose and MongoDB](https://github.com/fedosejev/restful-api-express-mongoose)
++ [Example of a token based authentication with Express.js](https://github.com/fedosejev/express-api-token-authentication)
 + [Example of minimalist stock market dashboard](https://github.com/fedosejev/stock-market-dashboard)
 + [Example of a shopping list built with React.js and Flux](https://github.com/fedosejev/shopping-list-react)
 + [Example of a login modal window built with React.js](https://github.com/fedosejev/modal-window-react)
 + [Example of how to calculate interest over time with Node.js](https://github.com/fedosejev/growth-of-a-dollar-over-time)
-+ [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
-+ [Example of a RESTful API with Node.js, Express.js, Mongoose and MongoDB](https://github.com/fedosejev/restful-api-express-mongoose)
-+ [Example of a token based authentication with Express.js](https://github.com/fedosejev/express-api-token-authentication)
 + [Example of HTML5 File API and Firebase](https://github.com/fedosejev/html5-file-drag-and-drop-firebase)
 + [Example of HTML5 drag and drop API](https://github.com/fedosejev/html5-drag-and-drop)
 + [Example of how to compile SASS into CSS with Gulp](https://github.com/fedosejev/compile-sass-with-gulp)

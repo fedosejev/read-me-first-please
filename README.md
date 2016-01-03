@@ -35,4 +35,4 @@
 
 ## Book:
 
-+ [Code for React.js Essentials book](https://github.com/fedosejev/react-essentials) (http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)
++ [React.js Essentials book](https://github.com/fedosejev/react-essentials) (http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)

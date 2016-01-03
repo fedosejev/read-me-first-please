@@ -21,7 +21,7 @@
 
 ## Websites:
 
-+ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today) (http://whatshouldilearn.today)
++ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today)
 + [Code for fedosejev.com website](https://github.com/fedosejev/fedosejev.com)
 + [Code for artemij.com website](https://github.com/fedosejev/artemij.com)
 + [Code for progressdots.com website](https://github.com/fedosejev/progressdots.com)
@@ -35,4 +35,4 @@
 
 ## Book:
 
-+ [React.js Essentials book](https://github.com/fedosejev/react-essentials) (http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)
++ [React.js Essentials book](https://github.com/fedosejev/react-essentials)

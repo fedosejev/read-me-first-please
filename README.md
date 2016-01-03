@@ -1,15 +1,12 @@
-# Artemij's repositories
+# My repositories
 
-## My repositories:
+## Examples:
 
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
 + [Example of minimalist stock market dashboard](https://github.com/fedosejev/stock-market-dashboard)
-+ [Code for React.js Essentials book](https://github.com/fedosejev/react-essentials) (http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)
 + [Example of a shopping list built with React.js and Flux](https://github.com/fedosejev/shopping-list-react)
 + [Example of a login modal window built with React.js](https://github.com/fedosejev/modal-window-react)
 + [Example of how to calculate interest over time with Node.js](https://github.com/fedosejev/growth-of-a-dollar-over-time)
-+ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today) (http://whatshouldilearn.today)
-+ [Code for fedosejev.com website](https://github.com/fedosejev/fedosejev.com)
 + [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
 + [Example of a RESTful API with Node.js, Express.js, Mongoose and MongoDB](https://github.com/fedosejev/restful-api-express-mongoose)
 + [Example of a token based authentication with Express.js](https://github.com/fedosejev/express-api-token-authentication)
@@ -17,16 +14,25 @@
 + [Example of HTML5 drag and drop API](https://github.com/fedosejev/html5-drag-and-drop)
 + [Example of how to compile SASS into CSS with Gulp](https://github.com/fedosejev/compile-sass-with-gulp)
 + [Example of how to create JavaScript object properties](https://github.com/fedosejev/javascript-object-properties)
++ [Example of how to annotate YouTube videos](https://github.com/fedosejev/youtube-annotation)
++ [Example of a project described in React.js Essentials book](https://github.com/fedosejev/react-essentials-project)
++ [Example of responsive layout with Bootstrap and React.js](https://github.com/fedosejev/react-bootstrap-layout)
++ [Simple React.js component that handles file drag and drop](https://github.com/fedosejev/react-file-drag-and-drop)
+
+## Websites:
+
++ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today) (http://whatshouldilearn.today)
++ [Code for fedosejev.com website](https://github.com/fedosejev/fedosejev.com)
 + [Code for artemij.com website](https://github.com/fedosejev/artemij.com)
 + [Code for progressdots.com website](https://github.com/fedosejev/progressdots.com)
 + [Code for artemistry.com](https://github.com/fedosejev/artemistry.com)
-+ [Example of how to annotate YouTube videos](https://github.com/fedosejev/youtube-annotation)
 + [Code for drivosaurs.com website](https://github.com/fedosejev/drivosaurs.com)
 + [Code for artosaurs.com website](https://github.com/fedosejev/artosaurs.com)
-+ [Example of a project described in React.js Essentials book](https://github.com/fedosejev/react-essentials-project)
 + [Code for frontend.education website](https://github.com/fedosejev/frontend.education)
 + [Code for zerointerview.com website](https://github.com/fedosejev/zerointerview.com)
-+ [Simple React.js component that handles file drag and drop](https://github.com/fedosejev/react-file-drag-and-drop)
 + [Code for daredays.com website](https://github.com/fedosejev/daredays.com)
-+ [Example of responsive layout with Bootstrap and React.js](https://github.com/fedosejev/react-bootstrap-layout)
 + [Code for photoshoot.tips website](https://github.com/fedosejev/photoshoot.tips)
+
+## Book:
+
++ [Code for React.js Essentials book](https://github.com/fedosejev/react-essentials) (http://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)

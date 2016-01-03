@@ -4,7 +4,7 @@ I've built successful career in web development. Today I teach others how to do 
 
 ## My repositories
 
-## Examples:
+### Examples
 
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
 + [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
@@ -23,7 +23,7 @@ I've built successful career in web development. Today I teach others how to do 
 + [Example of responsive layout with Bootstrap and React.js](https://github.com/fedosejev/react-bootstrap-layout)
 + [Simple React.js component that handles file drag and drop](https://github.com/fedosejev/react-file-drag-and-drop)
 
-## Websites:
+### Websites
 
 + [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today)
 + [Code for fedosejev.com website](https://github.com/fedosejev/fedosejev.com)
@@ -37,7 +37,7 @@ I've built successful career in web development. Today I teach others how to do 
 + [Code for daredays.com website](https://github.com/fedosejev/daredays.com)
 + [Code for photoshoot.tips website](https://github.com/fedosejev/photoshoot.tips)
 
-## Book:
+### Book
 
 + [React.js Essentials book](https://github.com/fedosejev/react-essentials)
 

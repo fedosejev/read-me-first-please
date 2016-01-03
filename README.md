@@ -1,5 +1,7 @@
 # My repositories
 
+I've built successful career in web development. Today I teach others how to do it.
+
 ## Examples:
 
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)

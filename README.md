@@ -31,17 +31,17 @@ I've built successful career in web development. Today I teach others how to do 
 
 ### Websites
 
-+ [Code for whatshouldilearn.today website](https://github.com/fedosejev/whatshouldilearn.today)
-+ [Code for fedosejev.com website](https://github.com/fedosejev/fedosejev.com)
-+ [Code for artemij.com website](https://github.com/fedosejev/artemij.com)
-+ [Code for progressdots.com website](https://github.com/fedosejev/progressdots.com)
++ [Code for whatshouldilearn.today](https://github.com/fedosejev/whatshouldilearn.today)
++ [Code for fedosejev.com](https://github.com/fedosejev/fedosejev.com)
++ [Code for artemij.com](https://github.com/fedosejev/artemij.com)
++ [Code for progressdots.com](https://github.com/fedosejev/progressdots.com)
 + [Code for artemistry.com](https://github.com/fedosejev/artemistry.com)
-+ [Code for drivosaurs.com website](https://github.com/fedosejev/drivosaurs.com)
-+ [Code for artosaurs.com website](https://github.com/fedosejev/artosaurs.com)
-+ [Code for frontend.education website](https://github.com/fedosejev/frontend.education)
-+ [Code for zerointerview.com website](https://github.com/fedosejev/zerointerview.com)
-+ [Code for daredays.com website](https://github.com/fedosejev/daredays.com)
-+ [Code for photoshoot.tips website](https://github.com/fedosejev/photoshoot.tips)
++ [Code for drivosaurs.com](https://github.com/fedosejev/drivosaurs.com)
++ [Code for artosaurs.com](https://github.com/fedosejev/artosaurs.com)
++ [Code for frontend.education](https://github.com/fedosejev/frontend.education)
++ [Code for zerointerview.com](https://github.com/fedosejev/zerointerview.com)
++ [Code for daredays.com](https://github.com/fedosejev/daredays.com)
++ [Code for photoshoot.tips](https://github.com/fedosejev/photoshoot.tips)
 
 ## How to contact me?
 

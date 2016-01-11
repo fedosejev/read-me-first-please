@@ -12,6 +12,7 @@ I've built successful career in web development. Today I teach others how to do 
 
 ### Examples
 
++ [Example of how to authenticate users with React.js](https://github.com/fedosejev/user-authentication-with-react)
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
 + [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
 + [Example of a RESTful API with Node.js, Express.js, Mongoose and MongoDB](https://github.com/fedosejev/restful-api-express-mongoose)

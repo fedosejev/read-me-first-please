@@ -11,7 +11,7 @@ I've built successful career in web development. Today I teach others how to do 
 + [React.js Essentials book](https://github.com/fedosejev/react-essentials)
 
 ### Examples
-
++ [Example of how to upload image with jQuery, Node.js and Express.js](https://github.com/fedosejev/upload-image-with-jquery-and-express)
 + [Example of how to authenticate users with React.js](https://github.com/fedosejev/user-authentication-with-react)
 + [Example of how to use Express.js with JSONP and CORS](https://github.com/fedosejev/express-jsonp-cors)
 + [Example of how to use EJS with Express.js](https://github.com/fedosejev/express-ejs)
